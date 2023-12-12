@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and UI,UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soniah770&label=Profile%20views&color=0e75b6&style=flat" alt="soniah770" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<img align="right" alt="Coding" width="800" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soniah770" alt="soniah770" /></a> </p>
