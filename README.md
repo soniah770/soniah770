@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Three.js,React Native**
 
-- 💬 Ask me about **React,Mern,Vite**
+- 💬 Ask me about **Next.js,React,Mern**
 
 - 📫 How to reach me **Hosseinzadehzahra2022@gmail.com**
 
