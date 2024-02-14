@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 
-- 🔭 I’m currently working on **Autonomus Navigation**
+- 🔭 I’m currently working on **Autonomous Navigation**
 
 - 🌱 I’m currently learning **Three.js,React Native**
 
