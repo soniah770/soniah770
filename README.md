@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Zahra Hosseinzadeh</h1>
-<h3 align="center">A passionate frontend developer and UI,UX Designer</h3>
+<h3 align="center">A passionate web developer and UI,UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soniah770&label=Profile%20views&color=0e75b6&style=flat" alt="soniah770" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Next.js,React,Mern Stack**
 
-- 📫 How to reach me **Hosseinzadehzahra2022@gmail.com**
+- 📫 How to reach me **hosseinzadehzahra2022@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
