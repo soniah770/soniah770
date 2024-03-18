@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Three.js,React Native**
 
-- 💬 Ask me about **Next.js,React,Mern Stack**
+- 💬 Ask me about **Java Script,Java,python**
 
 - 📫 How to reach me **hosseinzadehzahra2022@gmail.com**
 
