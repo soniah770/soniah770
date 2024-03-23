@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Three.js,React Native**
 
-- 💬 Ask me about **Java Script,Java,python**
+- 💬 Ask me about **Reacyt,Typescript,Java Script,Java,python**
 
 - 📫 How to reach me **hosseinzadehzahra2022@gmail.com**
 
