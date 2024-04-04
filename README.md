@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **Three.js,React Native**
+- 🌱 I’m currently learning **Three.js,React Native,asp.net**
 
-- 💬 Ask me about **Reacyt,Typescript,Java Script,Java,python**
+- 💬 Ask me about **React.js,Typescript,Java Script,Java,python**
 
 - 📫 How to reach me **hosseinzadehzahra2022@gmail.com**
 
