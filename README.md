@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Zahra Hosseinzadeh</h1>
-<h3 align="center">A passionate web developer and UI,UX Designer</h3>
+<h3 align="center">A passionate web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soniah770&label=Profile%20views&color=0e75b6&style=flat" alt="soniah770" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
